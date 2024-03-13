@@ -7,8 +7,6 @@ This is a simple library management system implemented in Python. It utilizes SQ
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Usage
 
