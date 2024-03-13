@@ -1,0 +1,62 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "number_of_pages": 281,
+    "cover_type": "Paperback",
+    "category": "Fiction"
+  },
+  {
+    "title": "1984",
+    "number_of_pages": 328,
+    "cover_type": "Hardcover",
+    "category": "Dystopian"
+  },
+  {
+    "title": "The Great Gatsby",
+    "number_of_pages": 180,
+    "cover_type": "Paperback",
+    "category": "Classic"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "number_of_pages": 309,
+    "cover_type": "Hardcover",
+    "category": "Fantasy"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "number_of_pages": 277,
+    "cover_type": "Paperback",
+    "category": "Coming-of-age"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "number_of_pages": 279,
+    "cover_type": "Paperback",
+    "category": "Romance"
+  },
+  {
+    "title": "The Hobbit",
+    "number_of_pages": 310,
+    "cover_type": "Hardcover",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Brave New World",
+    "number_of_pages": 288,
+    "cover_type": "Paperback",
+    "category": "Dystopian"
+  },
+  {
+    "title": "Lord of the Flies",
+    "number_of_pages": 224,
+    "cover_type": "Paperback",
+    "category": "Fiction"
+  },
+  {
+    "title": "Moby-Dick",
+    "number_of_pages": 624,
+    "cover_type": "Hardcover",
+    "category": "Adventure"
+  }
+]
